@@ -1,71 +1,71 @@
 * {
-   margin: 0;
-   padding: 0;
+ margin: 0;
+ padding: 0;
 }
 
-h1{
-   margin: 30px 30px;
-   text-align: right;
-   font-family: "Gill Sans", sans-serif;
-   font-size: 60px;
+h1 {
+ margin: 30px 30px;
+ text-align: right;
+ font-family: "Gill Sans", sans-serif;
+ font-size: 60px;
 }
 
-h2{
-   margin: 0 50px;
-   text-align: right;
-   font: italic 1.2em "Fira Sans", serif;
+h2 {
+ margin: 0 50px;
+ text-align: right;
+ font: italic 1.2em "Fira Sans", serif;
 }
 
-h3{
-   margin: 20px 0;
-   text-align: center;
-   font-family: Georgia, serif;
-   font-size: 20px;
+h3 {
+ margin: 20px 0;
+ text-align: center;
+ font-family: Georgia, serif;
+ font-size: 20px;
 }
 
-h4{
-   margin: 20px 50px;
-   text-align: center;
-   font-family: Georgia, serif;
-   font-size: 30px;
+h4 {
+ margin: 20px 50px;
+ text-align: center;
+ font-family: Georgia, serif;
+ font-size: 30px;
 }
 
 cite,
 p {
-   margin: 75px 75px;
-   text-align: center;
-   font: italic 1.2em "Fira Sans", serif;
+ margin: 75px 75px;
+ text-align: center;
+ font: italic 1.2em "Fira Sans", serif;
 }
 
 Img {
-   display: inline-block;
-   position: relative;
-   width: 400px;
-   line-height: 0;
-   transition: 500ms;
+ display: inline-block;
+ position: relative;
+ width: 400px;
+ line-height: 0;
+ transition: 500ms;
 }
 
 img:hover {
-   box-shadow:8px 8px 20px;
-   filter: none;
-   z-index: 1;
+ box-shadow: 8px 8px 20px;
+ filter: none;
+ z-index: 1;
 }
 
 img:nth-child(1) {
-   top: 0;
-   left: 600px;
+ top: 0;
+ left: 600px;
 }
 
 img:nth-child(2) {
-   top: 0;
-   left: 250px;
+ top: 0;
+ left: 250px;
 }
 
 img:nth-child(3) {
-   top: 0;
-   left: -100px;
+ top: 0;
+ left: -100px;
 }
 
 body {
-   background: url("../img/39294029065_9e458dd593_o.jpg") repeat scroll 0 0/cover;
+ background: url("../img/39294029065_9e458dd593_o.jpg") repeat scroll 0 0/cover;
 }
